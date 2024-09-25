@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Patrick+Hand&display=swap');
-</style>
+
+:root {
     --cor-principal: #7107a6;
     --cor-secundaria: #b17dff;
     --cor-destaque: #ffffff;
